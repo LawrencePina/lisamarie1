@@ -1,17 +1,14 @@
 {
   "images" : [
     {
-      "filename" : "b800.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "b800 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "b800 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

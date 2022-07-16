@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		21C61D012882762D00696EEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21C61D002882762D00696EEA /* Assets.xcassets */; };
 		21DC928128811C1E0055F670 /* lisamarieApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21DC928028811C1E0055F670 /* lisamarieApp.swift */; };
 		21DC928328811C1E0055F670 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21DC928228811C1E0055F670 /* ContentView.swift */; };
 		21DC928928811C200055F670 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21DC928828811C200055F670 /* Preview Assets.xcassets */; };
@@ -19,7 +18,6 @@
 
 /* Begin PBXFileReference section */
 		21BCE216288222150002263B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		21C61D002882762D00696EEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21DC927D28811C1E0055F670 /* lisamarie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lisamarie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21DC928028811C1E0055F670 /* lisamarieApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lisamarieApp.swift; sourceTree = "<group>"; };
 		21DC928228811C1E0055F670 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 				21DC928228811C1E0055F670 /* ContentView.swift */,
 				21DC928628811C200055F670 /* lisamarie.entitlements */,
 				21DC928728811C200055F670 /* Preview Content */,
-				21C61D002882762D00696EEA /* Assets.xcassets */,
 			);
 			path = lisamarie;
 			sourceTree = "<group>";
@@ -187,7 +184,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				21C61D012882762D00696EEA /* Assets.xcassets in Resources */,
 				21DC928928811C200055F670 /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

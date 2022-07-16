@@ -1,12 +1,10 @@
 {
   "images" : [
     {
-      "filename" : "3_spacer 1.png",
       "idiom" : "tv",
       "scale" : "1x"
     },
     {
-      "filename" : "3_spacer.png",
       "idiom" : "tv",
       "scale" : "2x"
     }

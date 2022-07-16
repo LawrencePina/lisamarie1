@@ -1,12 +1,10 @@
 {
   "images" : [
     {
-      "filename" : "400bback.png",
       "idiom" : "tv",
       "scale" : "1x"
     },
     {
-      "filename" : "lo_0000s_0004_Color-Fill-1.png",
       "idiom" : "tv",
       "scale" : "2x"
     }

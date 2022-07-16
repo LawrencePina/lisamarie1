@@ -1,10 +1,12 @@
 {
   "images" : [
     {
+      "filename" : "Polygon 1x.png",
       "idiom" : "tv",
       "scale" : "1x"
     },
     {
+      "filename" : "Polygon 1.png",
       "idiom" : "tv",
       "scale" : "2x"
     }

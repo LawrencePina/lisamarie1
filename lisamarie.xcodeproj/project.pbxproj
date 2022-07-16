@@ -445,7 +445,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 0.1;
-				PRODUCT_BUNDLE_IDENTIFIER = .watchkit;
+				PRODUCT_BUNDLE_IDENTIFIER = com.colada.lisamarie.watchkit;
 				PRODUCT_NAME = lisamariewatch;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = watchos;
@@ -478,7 +478,7 @@
 				);
 				MARKETING_VERSION = 0.1;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = .watchkit;
+				PRODUCT_BUNDLE_IDENTIFIER = com.colada.lisamarie.watchkit;
 				PRODUCT_NAME = lisamariewatch;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = watchos;
